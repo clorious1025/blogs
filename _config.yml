@@ -6,7 +6,7 @@ email: 370438778@qq.com
 description: "关于程序 | 叶腾飞，Ceph, C++, Java, Golang | 这里是 @Yetf叶腾飞 的个人博客，一起来玩Ceph。"
 keyword: "叶腾飞, Yetf, Ceph"
 url: "https://yetengfei.github.io"              # your host, for absolute URL
-baseurl: "/blog"                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/blogs"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
